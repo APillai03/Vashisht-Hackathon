@@ -58,7 +58,7 @@ Vashisht-Hackathon/
 - Numpy & JSON for data handling
 - Using **Regex** and **NLP** for creating and curating a custom dataset that acts as an header to the original Database
 - Using **Torch** and **Sentence Transformers** a fine tuned model was created with embeddings saved in qa_model for fast fetching 
-- The Transformers Model was trained over the Question Answer Pipeline for over 5 epochs and the resulting model was saved for faster fetching of vectors.
+- The Transformers Model was trained over the Question Answer Pipeline for over 5 epochs and the resulting model was saved for faster fetching of embedding vectors.
 
 ---
 
