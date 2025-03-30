@@ -7,7 +7,7 @@ The **Virtual Legal Assistant** is a web-based legal assistant that helps users:
 - Ask legal questions and get AI-generated answers (Q/A mode)
 - Search for relevant legal cases (Search Cases mode)
 - Upload a document and get AI-generated responses based on its content (Document Answering mode)
-- **Multilingual Support**!!! Not Comfirtable with English, Dont Worry we got you with multilingual support in thousands of languages
+- **Multilingual Support**!!! Not Comfortable with English, Dont Worry we got you with multilingual support in thousands of languages
 
 The frontend is built with **HTML, JavaScript, and CSS**, while the backend is powered by **Flask, Sentence Transformers, Facebook Bart** for AI-driven responses.
 
@@ -57,7 +57,8 @@ Vashisht-Hackathon/
 - Thresholding for prevention of garbage values.
 - Numpy & JSON for data handling
 - Using **Regex** and **NLP** for creating and curating a custom dataset that acts as an header to the original Database
-- Using Torch and Sentence Transformers a fine tuned model was created with embeddings saved in qa_model for fast fetching 
+- Using **Torch** and **Sentence Transformers** a fine tuned model was created with embeddings saved in qa_model for fast fetching 
+- The Transformers Model was trained over the Question Answer Pipeline for over 5 epochs and the resulting model was saved for faster fetching of vectors.
 
 ---
 
