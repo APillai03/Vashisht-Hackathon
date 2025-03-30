@@ -11,6 +11,7 @@ The **Virtual Legal Assistant** is a web-based legal assistant that helps users:
 
 The frontend is built with **HTML, JavaScript, and CSS**, while the backend is powered by **Flask, Sentence Transformers, Facebook Bart** for AI-driven responses.
 
+## 🎥 Demo Video
 - [**Demo Video**](https://drive.google.com/drive/folders/1RuB0dacip__IzGNaeMlvaVHR2uRSuwdV?usp=sharing) (GDrive Link)
 
 
